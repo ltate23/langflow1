@@ -12,3 +12,4 @@ To simplify the development of agents, Langflow created a custom [Tool calling a
 <img src="/img/tool-calling-agent-component.png" alt="Prompt component" style={{display: 'block', margin: 'auto', width: 300}} />
 
 To get started, see [Create a problem solving agent](/agents-tool-calling-agent-component).
+
